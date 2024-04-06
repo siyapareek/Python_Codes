@@ -1,0 +1,5 @@
+//There is some code written in the editor to print "Code Chef". But the variable names are not following the rule. Can you spot the mistake and fix it?
+
+name_1 = "Code"
+name_2 = "Chef"
+print(name_1, name_2)
