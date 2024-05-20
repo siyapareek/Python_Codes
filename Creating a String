@@ -1,1 +1,2 @@
 fruit="Apple"
+print(fruit)
